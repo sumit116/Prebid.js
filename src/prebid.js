@@ -31,7 +31,7 @@ const eventValidators = {
 
 // initialize existing debugging sessions if present
 sessionLoader();
-
+utils.logError('testing sonarqube integration with github');
 /* Public vars */
 $$PREBID_GLOBAL$$.bidderSettings = $$PREBID_GLOBAL$$.bidderSettings || {};
 
