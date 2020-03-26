@@ -32,7 +32,7 @@ const eventValidators = {
 // initialize existing debugging sessions if present
 sessionLoader();
 utils.logError('testing sonarqube integration with github');
-utils.logError('raise a PR for sonarque testing');
+utils.logError('raise a PR for sonarque testing 1');
 
 /* Public vars */
 $$PREBID_GLOBAL$$.bidderSettings = $$PREBID_GLOBAL$$.bidderSettings || {};
